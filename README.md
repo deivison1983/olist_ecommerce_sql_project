@@ -52,7 +52,7 @@ As perguntas do time de negócios enviadas semanalmente serão respondidas por m
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>SQlite</span><br><br>
+        <span>SQLite</span><br><br>
         <img height="64px" src="https://www.sqlitetutorial.net/wp-content/uploads/2021/04/sqlite-tutorial-homepage.svg">
       </td>
       <td width="25%" align="center">
