@@ -40,7 +40,7 @@ Este é um projeto de estudo e não possui nenhuma finalidade comercial, sendo d
 
 ### 3.1 Produto proposto
 
-As perguntas do time de negócios enviadas semanalmente serão respondidas por meio das consultas ao banco de dados SQLite com a ferramenta multiplataforma IDE DBeaver. Será entregue para cada semana um relatório em um notebook, arquivo.ipynb, onde demostro as perguntas, as queries correspondentes e o resultados das consultas para cada pergunta.
+As perguntas do time de negócios enviadas semanalmente serão respondidas por meio das consultas ao banco de dados SQLite com a ferramenta multiplataforma IDE DBeaver. Será entregue para cada semana um [relatório](https://github.com/deivison1983/olist_ecommerce_sql_project/tree/main/relatorios) em um notebook, arquivo.ipynb, onde demostro as perguntas, as queries correspondentes e o resultados das consultas para cada pergunta.
 
 ### 3.2 Ferramentas utilizadas
 
@@ -91,6 +91,8 @@ Ao todo a execução da solução do projeto será dividida em 7 passos:
 [Relatório Semana 4](https://github.com/deivison1983/olist_ecommerce_sql_project/blob/main/relatorios/projeto_olist_week_4_por_v1.ipynb)
 
 [Relatório Semana 5](https://github.com/deivison1983/olist_ecommerce_sql_project/blob/main/relatorios/projeto_olist_week_5_por_v1.ipynb)
+
+[Relatório Semana 6](https://github.com/deivison1983/olist_ecommerce_sql_project/blob/main/relatorios/projeto_olist_week_6_por_v1.ipynb)
 
 
 ## 5. Conclusão do projeto
