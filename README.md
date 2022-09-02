@@ -94,6 +94,8 @@ Ao todo a execução da solução do projeto será dividida em 7 passos:
 
 [Relatório Semana 6](https://github.com/deivison1983/olist_ecommerce_sql_project/blob/main/relatorios/projeto_olist_week_6_por_v1.ipynb)
 
+[Relatório Semana 6](https://github.com/deivison1983/olist_ecommerce_sql_project/blob/main/relatorios/projeto_olist_week_7_por_v1.ipynb)
+
 
 ## 5. Conclusão do projeto
 
