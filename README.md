@@ -2,6 +2,8 @@
 
 <img src="imagens/olist_1.png">
 
+# <p>🇺🇸 [English Version](https://github.com/deivison1983/olist_ecommerce_sql_project/blob/main/english_version/README_eng.md)</p>
+
 ## O projeto
 
 Este projeto que compõe o meu portfólio profissional busca coletar e analisar informações com as ferramentas da linguagem SQL no conjunto de dados disponibilizado pela empresa Olist. Convém mencionar que o conjunto de dados possui cerca de 100 mil pedidos realizados em vários sites de e-commerce do Brasil.
